@@ -1,17 +1,27 @@
 # Hi, I'm Mick-DoctorDev⚡️
 ### Mick - Noppawat Loryingyongphaisal
-"The Rocket is Full of fire 🔥, Headed to the Moon 🌙"<br><br>
-<img src = 'https://github.com/user-attachments/assets/efdfb6ce-72e1-4d6e-a4bb-c8771dd22036' width=300px height=300px /> <img src ="https://github.com/user-attachments/assets/5d7b01e1-b69c-4d63-9b88-26409b9513eb" width=300px height=300px>
-
-# 💫 About Me:
-🔭 Engineering students @Chulalongkorn University<br>⚡️ Frontend Developer | UX / UI designer<br>🚀 Leader, Google Developer Group on Campus [[GDG on Campus]](https://www.instagram.com/gdgoc.chula?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)<br>❤️‍🔥 I'm passionate in Web/App development and session organizer<br>🚩 Next learning, Back-end and AI
-
-
-# 🌐 Socials:
+Engineering students @Chulalongkorn University<br>
+- ⚡️ Frontend Developer | UX / UI designer<br>
+- 🚀 Leader, Google Developer Group on Campus | Chulalongkorn University [[GDG on Campus]](https://www.instagram.com/gdgoc.chula?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)<br>
+- ⭐️ Working with GDG on Campus Thailand <br><br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mick.doctordev@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noppawat-loryingyongphaisal-129808343) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/568426945281523723) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nop_mick)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nph.wrrth.n.hlx.ying.yng.phisal/) 
 
-# 💻 Skills:
+## 💫 About Me:
+❤️‍🔥 I'm passionate in Web/App development and project manager<br>🚩 Next learning, Back-end and AI <br><br>
+"The Rocket is Full of fire 🔥, Headed to the Moon 🌙"<br><br>
+<img src = 'https://github.com/user-attachments/assets/efdfb6ce-72e1-4d6e-a4bb-c8771dd22036' width=200px height=200px /> <img src ="https://github.com/user-attachments/assets/5d7b01e1-b69c-4d63-9b88-26409b9513eb" width=200px height=200px> <br>
+
+## 🔄 Last Activity
+- 
+- Attended Google DevFest Bangkok 2025
+- Organized Google DevFest Cloud Bangkok 2025
+- Attended the Google Summer of Code - Info Session at Chulalongkorn University
+- Attended the Python Hunt 2025, GDG on Campus Chulalongkorn University
+- Attended the Website Development for Beginners with Next.js & Firebase, GDG on Campus Chulalongkorn University
+- Attended the Building AI-Powered iOS Apps with SwiftUI and Google Firebase, GDG on Campus Chulalongkorn University
+- 
+## 💻 Skills:
 
 ### Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
