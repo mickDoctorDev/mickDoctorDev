@@ -2,7 +2,7 @@
 ### Mick - Noppawat Loryingyongphaisal
 Engineering students @Chulalongkorn University<br/><br/>
 <img src = "https://github.com/mickDoctorDev/mickDoctorDev/blob/e5ca3efb2422d54b71591e55254cc37a78ab8510/IMG_4203%203.jpg" width=500px height=1000px>
-- ⚡️ Frontend Developer | UX / UI designer<br>
+- ⚡️ Full Stack Developer<br>
 - 🚀 Leader, Google Developer Group on Campus | Chulalongkorn University [[GDG on Campus]](https://www.instagram.com/gdgoc.chula?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)<br>
 - ⭐️ Working with GDG on Campus Thailand <br><br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mick.doctordev@gmail.com) 
